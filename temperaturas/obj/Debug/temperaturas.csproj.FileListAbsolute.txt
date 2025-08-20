@@ -1,0 +1,11 @@
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\bin\Debug\temperaturas.exe.config
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\bin\Debug\temperaturas.exe
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\bin\Debug\temperaturas.pdb
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.csproj.AssemblyReference.cache
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.Form1.resources
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.Properties.Resources.resources
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.csproj.GenerateResource.cache
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.exe
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.pdb
+C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.exe.config

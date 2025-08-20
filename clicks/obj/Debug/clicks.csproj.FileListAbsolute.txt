@@ -1,0 +1,22 @@
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\bin\Debug\clicks.exe.config
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\bin\Debug\clicks.exe
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\bin\Debug\clicks.pdb
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.csproj.AssemblyReference.cache
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.Form1.resources
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.Properties.Resources.resources
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.csproj.GenerateResource.cache
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.csproj.CoreCompileInputs.cache
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.exe
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.pdb
+C:\Users\cherl\OneDrive\Desktop\programacion visual\clicks\obj\Debug\clicks.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\bin\Debug\clicks.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\bin\Debug\clicks.exe
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\bin\Debug\clicks.pdb
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.csproj.AssemblyReference.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.Form1.resources
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.Properties.Resources.resources
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.csproj.GenerateResource.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.csproj.CoreCompileInputs.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.exe
+C:\Users\isapa\OneDrive\Escritorio\programacion\clicks\obj\Debug\clicks.pdb
