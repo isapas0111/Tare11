@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\",
+  "WorkspaceRootPath": "C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|c:\\users\\cherl\\onedrive\\desktop\\programacion visual\\holamundo\\holamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|c:\\users\\isapa\\onedrive\\escritorio\\programacion visual\\tare11\\holamundo\\holamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|c:\\users\\cherl\\onedrive\\desktop\\programacion visual\\holamundo\\holamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\holamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\holamundo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\holamundo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218112AB-76EA-4690-ACB8-7B49CC82347F}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\HolaMundo\\Form1.cs",
               "RelativeDocumentMoniker": "HolaMundo\\Form1.cs",
-              "ToolTip": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Form1.cs*",
-              "RelativeToolTip": "HolaMundo\\Form1.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAIAzwCQAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\HolaMundo\\Form1.cs",
+              "RelativeToolTip": "HolaMundo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T17:29:50.092Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\HolaMundo\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "HolaMundo\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\HolaMundo\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "HolaMundo\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,13 +53,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\isapa\\OneDrive\\Escritorio\\programacion visual\\Tare11\\HolaMundo\\HolaMundo\\Form1.cs",
               "RelativeDocumentMoniker": "HolaMundo\\Form1.cs",
               "ToolTip": "C:\\Users\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "HolaMundo\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cherl\\OneDrive\\Desktop\\programacion visual\\HolaMundo\\HolaMundo\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:57:20.367Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T16:57:20.367Z"
             }
           ]
         }

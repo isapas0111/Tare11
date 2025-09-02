@@ -9,3 +9,14 @@ C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\tempe
 C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.exe
 C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.pdb
 C:\Users\cherl\OneDrive\Desktop\programacion visual\temperaturas\obj\Debug\temperaturas.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\bin\Debug\temperaturas.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\bin\Debug\temperaturas.exe
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\bin\Debug\temperaturas.pdb
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.csproj.AssemblyReference.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.Form1.resources
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.Properties.Resources.resources
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.csproj.GenerateResource.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.exe
+C:\Users\isapa\OneDrive\Escritorio\programacion visual\Tare11\temperaturas\obj\Debug\temperaturas.pdb
