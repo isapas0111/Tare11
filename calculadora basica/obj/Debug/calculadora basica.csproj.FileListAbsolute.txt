@@ -1,0 +1,33 @@
+C:\Users\arauz\source\repos\calculadora basica\bin\Debug\calculadora basica.exe.config
+C:\Users\arauz\source\repos\calculadora basica\bin\Debug\calculadora basica.exe
+C:\Users\arauz\source\repos\calculadora basica\bin\Debug\calculadora basica.pdb
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.csproj.AssemblyReference.cache
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora_basica.Form1.resources
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora_basica.Properties.Resources.resources
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.exe
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.pdb
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.exe.config
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\bin\Debug\calculadora basica.exe.config
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\bin\Debug\calculadora basica.exe
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\bin\Debug\calculadora basica.pdb
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora basica.csproj.AssemblyReference.cache
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora basica.exe.config
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora_basica.Form1.resources
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora_basica.Properties.Resources.resources
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora basica.csproj.GenerateResource.cache
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora basica.exe
+C:\Users\cherl\OneDrive\Documentos\ProgramacionVisual\calculadora basica\obj\Debug\calculadora basica.pdb
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\bin\Debug\calculadora basica.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\bin\Debug\calculadora basica.exe
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\bin\Debug\calculadora basica.pdb
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora basica.csproj.AssemblyReference.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora basica.exe.config
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora_basica.Form1.resources
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora_basica.Properties.Resources.resources
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora basica.csproj.GenerateResource.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora basica.exe
+C:\Users\isapa\OneDrive\Escritorio\programacion\cacuoladora crr\calculadora basica\obj\Debug\calculadora basica.pdb
